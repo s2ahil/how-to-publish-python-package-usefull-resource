@@ -6,4 +6,4 @@ use this short hand dont use full command because test.pypi doesn't work :
 
 3rd use same command from video containing "upload.pypi.org "
 
-
+working command :  python -m twine upload dist/*
